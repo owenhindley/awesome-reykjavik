@@ -1,6 +1,6 @@
 # Mobile phone
 
-Telco is competitive and most homes have access to fiber optics. 
+Mobile telephone and broadband providers are competitive and most homes have access to fiber optics. 
 
 !!! note
     Iceland is part of an EU/EFTA trade agreement which means data, SMS and phone call pricing is the same for people traveling within the European Economic Area. 
